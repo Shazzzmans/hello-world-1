@@ -3,3 +3,4 @@
 
 <h2> Deploying on a container </h2>
 <h2> ** THIS IS ALL AUTOMATED ** </h2>
+<h2> Kubernetes is AWESOME! </h2>
